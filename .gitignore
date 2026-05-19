@@ -1,0 +1,18 @@
+# Build artifacts
+.build/
+.swiftpm/
+*.xcodeproj/
+
+# Output bundles
+WebPViewer.app/
+WebPViewer.pkg
+WebPViewer.iconset/
+
+# Secrets — DO NOT COMMIT
+*.provisionprofile
+*.p12
+*.cer
+*.certSigningRequest
+
+# macOS
+.DS_Store
