@@ -16,3 +16,8 @@ WebPViewer.iconset/
 
 # macOS
 .DS_Store
+
+# Local-only docs and test data
+APPSTORE.md
+APPSTORE-SUBMIT.md
+samples/
