@@ -21,3 +21,6 @@ WebPViewer.iconset/
 APPSTORE.md
 APPSTORE-SUBMIT.md
 samples/
+
+# Local-only distribution script (contains INFOKOM cert names)
+dist.sh
